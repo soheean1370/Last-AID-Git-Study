@@ -28,7 +28,7 @@
 ## 3. Phase 5
 1. 이미 진행한 workflow를 참고하여 회의를 통해 workflow를 만들어봅니다.
 2. 스터디장에게 보고한 뒤 진행합니다.
-
+![git-phase-todo](/sources/git-workflow-phase-todo_1.png)
 <br>
 
 <!-- 

@@ -9,9 +9,9 @@ def subtract(a, b):
 	return a - b
 # 뺄셈 기능 구현
 
-# def multiply(a, b):
-#     pass
-
+def multiply(a, b):
+    return a * b
+# 곱셈 기능 구현
 
 # def divide(a, b):
 #     pass;

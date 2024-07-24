@@ -1,7 +1,8 @@
 #import special_functions.py
 
 def add(a, b):
-#     pass
+    return a + b
+# 덧셈 기능 구현
 
 
 # def subtract(a, b):

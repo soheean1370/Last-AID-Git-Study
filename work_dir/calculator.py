@@ -18,7 +18,6 @@ def divide(a, b):
         print("can't devide to 0!!")
     return a/b
 
-
 # hotfix 대상 함수
 def testPrint(): # a-z까지 출력하는 함수
     print('abcdefghijklmnopqrstuvwxyz')

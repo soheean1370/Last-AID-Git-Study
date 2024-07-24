@@ -13,8 +13,10 @@ def multiply(a, b):
     return a * b
 # 곱셈 기능 구현
 
-# def divide(a, b):
-#     pass;
+def divide(a, b):
+    if b == 0 :
+        print("can't devide to 0!!")
+    return a/b
 
 
 # hotfix 대상 함수

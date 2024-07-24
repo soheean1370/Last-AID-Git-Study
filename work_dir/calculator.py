@@ -15,7 +15,6 @@ def add(a, b):
 # def divide(a, b):
 #     pass;
 
-
 # hotfix 대상 함수
 def testPrint(): # a-z까지 출력하는 함수
     print('abcdefghijklmnopqrstuvvxyz')

@@ -6,4 +6,8 @@ def abs(a,b):
         return a
     else:
         return -a
-    
+
+def mod(a,b):
+    if b == 0:
+        return -1
+    return a%b

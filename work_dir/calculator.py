@@ -1,6 +1,6 @@
 #import special_functions.py
 
-# def add(a, b):
+def add(a, b):
 #     pass
 
 

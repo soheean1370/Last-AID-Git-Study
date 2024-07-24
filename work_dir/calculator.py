@@ -5,9 +5,9 @@ def add(a, b):
 # 덧셈 기능 구현
 
 
-# def subtract(a, b):
-# 	pass
-
+def subtract(a, b):
+	return a - b
+# 뺄셈 기능 구현
 
 # def multiply(a, b):
 #     pass

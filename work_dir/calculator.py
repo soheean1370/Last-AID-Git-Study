@@ -1,19 +1,22 @@
 #import special_functions.py
 
 def add(a, b):
-#     pass
+    return a + b
+# 덧셈 기능 구현
 
 
-# def subtract(a, b):
-# 	pass
+def subtract(a, b):
+	return a - b
+# 뺄셈 기능 구현
 
+def multiply(a, b):
+    return a * b
+# 곱셈 기능 구현
 
-# def multiply(a, b):
-#     pass
-
-
-# def divide(a, b):
-#     pass;
+def divide(a, b):
+    if b == 0 :
+        print("can't devide to 0!!")
+    return a/b
 
 
 # hotfix 대상 함수

@@ -1,7 +1,7 @@
 #import special_functions.py
 
 def add(a, b):
-    return a + b
+    return a + b 
 # 덧셈 기능 구현
 
 
@@ -17,13 +17,11 @@ def divide(a, b):
     if b == 0 :
         print("can't devide to 0!!")
     return a/b
+# 나눗셈 기능 구현
 
-
-# hotfix 대상 함수
 def testPrint(): # a-z까지 출력하는 함수
     print('abcdefghijklmnopqrstuvwxyz')
-
-
+ # hotfix 대상 함수
 
 if __name__ == "__main__":
     testPrint()

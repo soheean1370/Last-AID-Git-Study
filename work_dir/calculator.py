@@ -1,7 +1,7 @@
 #import special_functions.py
 
 def add(a, b):
-    return a + b
+    return a + b 
 # 덧셈 기능 구현
 
 
@@ -23,7 +23,7 @@ def divide(a, b):
 def testPrint(): # a-z까지 출력하는 함수
     print('abcdefghijklmnopqrstuvwxyz')
 
-
+ 
 
 if __name__ == "__main__":
     testPrint()
